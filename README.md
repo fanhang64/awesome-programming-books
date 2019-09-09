@@ -52,8 +52,8 @@
 - [《C++编程思想（第1卷）》](./c++/C++编程思想（第1卷）.pdf)
 - [《C++并发编程》](./c++/C++并发编程.pdf)
 - [《C++沉思录》](./c++/C++沉思录.pdf)
-- [《Effective C++ 改善程序与设计的55个具体做法 中文第三版》](./c++/Effective C++ 改善程序与设计的55个具体做法 中文第三版.pdf)
-- [《More Effective C++（中文完全版）》](./c++/More Effective C++（中文完全版）.pdf)
+- [《Effective_C++_改善程序与设计的55个具体做法_中文第三版》](./c++/Effective C++ 改善程序与设计的55个具体做法 中文第三版.pdf)
+- [《More_Effective_C++（中文完全版）》](./c++/More Effective C++（中文完全版）.pdf)
 
 ## Golang
 
