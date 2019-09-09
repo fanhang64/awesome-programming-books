@@ -159,6 +159,7 @@
 - [《SQL基础教程（第3版）》](./mysql/SQL基础教程.pdf)
 - [《MySQL必知必会》](./mysql/MySQL必知必会.pdf)
 - [《SQL学习指南》](./mysql/SQL学习指南.pdf)
+- [《深入浅出MySQL：数据库开发、优化与管理维护.第2版》](./mysql/深入浅出MySQL：数据库开发、优化与管理维护.第2版.pdf)
 
 ## MongoDB
 
